@@ -1,0 +1,4 @@
+exports.flickr = {
+  key: "",
+  secret: ""
+}
