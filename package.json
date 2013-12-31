@@ -1,0 +1,30 @@
+{
+  "name": "muchepic.com",
+  "version": "1.0.0",
+  "description": "Much epic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/muchepic.com.git"
+  },
+  "keywords": [
+    "much",
+    "epic"
+  ],
+  "author": "Feross Aboukhadijeh <feross@feross.org> (http://feross.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feross/muchepic.com/issues"
+  },
+  "homepage": "https://github.com/feross/muchepic.com",
+  "dependencies": {
+    "jquery": "~2.1.0-beta3",
+    "async": "~0.2.9"
+  },
+  "devDependencies": {
+    "browserify": "~3.18.0"
+  }
+}
